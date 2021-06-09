@@ -1,6 +1,7 @@
 # latihan_provider
 
 A new Flutter project.
+Gender picker using provider state management
 
 ## Getting Started
 
